@@ -1,5 +1,5 @@
 #Ignore the dataset
-dataset/sentimentdataset
+sentimentdataset.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
